@@ -34,7 +34,7 @@ Built CYBERSTORM99 to centralize everything worth building, breaking, and reimag
 Like what you see? Here's how to keep it alive:
 - **Star this repo**  
 - **Fork and contribute**  
-- **[Donate](https://buymeacoffee.com/yourlink)** to help me build more and stay caffeinated 
+- **[Donate](https://buymeacoffee.com/txzbt)** to help me build more and stay caffeinated 
 
 ---
 
