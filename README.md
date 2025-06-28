@@ -23,7 +23,7 @@ Founded and maintained by **Stormzy_Txzbt**, CYBERSTORM99 is not just a brand �
 **Stormzy_Txzbt** — Medical mind, code crafter, and cyber philosopher.  
 Built CYBERSTORM99 to centralize everything worth building, breaking, and reimagining.
 
-- [YouTube Channel](https://youtube.com/@cyberstorm99s) — tutorials, breakdowns, deep dives  
+- [YouTube Channel](https://youtube.com/@cyberstorm99a) — tutorials, breakdowns, deep dives  
 - [Discord Server](https://discord.gg/pWNrevas) — talk tools, get help, drop knowledge  
 - [GitHub Profile](https://github.com/Stormzy-Txzbt) — personal experiments and side quests  
 
